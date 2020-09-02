@@ -1,7 +1,7 @@
 {
-  "name": "@loki/integration-react",
+  "name": "@loki/integration-svelte",
   "version": "0.24.0",
-  "description": "Loki react integration",
+  "description": "Loki svelte integration",
   "keywords": [
     "loki"
   ],
